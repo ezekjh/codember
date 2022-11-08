@@ -1,0 +1,12 @@
+{
+  "name": "codember",
+  "version": "1.0.0",
+  "description": "Codember challenges",
+  "main": "index.js",
+  "type": "module",
+  "author": "ezekjh",
+  "license": "ISC",
+  "dependencies": {
+    "node-fetch": "^3.2.10"
+  }
+}
